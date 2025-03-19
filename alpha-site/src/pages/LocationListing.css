@@ -1,0 +1,13 @@
+.list-main-wrap{
+width: 75%;
+}
+.list-main-wrap fl-wrap card-listing{
+  display: flex;
+}
+.listsearch-options{
+  width: 100%;
+  padding: 44px 0px;
+}
+.col-list-wrap{
+  width:100%;
+}

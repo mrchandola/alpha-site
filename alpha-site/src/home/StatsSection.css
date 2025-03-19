@@ -1,0 +1,39 @@
+.countr {
+  background: #ffffff; /* White background */
+  border-radius: 12px; /* Rounded corners */
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
+  text-align: center;
+  transition: transform 0.3s ease-in-out;
+  height: 260px;
+}
+
+.countr:hover {
+  transform: translateY(-5px); /* Lift effect on hover */
+}
+
+.countr i {
+  display: block;
+  margin-bottom: 15px;
+  font-size: 50px; /* Icon size */
+}
+
+.countr i svg {
+  color: #007bff; /* Blue theme color */
+}
+
+.countr .red svg {
+  color: #ff4757; /* Red theme color */
+}
+
+.count-me h3 {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 10px 0;
+  color: #333; /* Dark text */
+}
+
+.count-me p {
+  font-size: 14px;
+  color: #666; /* Soft text */
+}

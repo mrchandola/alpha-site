@@ -1,0 +1,11 @@
+.section-separator{
+    margin: 9px 0px 35px 0px;
+}
+.header-sec-link a i{
+    position: relative;
+    z-index: 2;
+    bottom: 0;
+    font-size: 19px;
+    text-align: center;
+    margin: 0 0 0 103px;
+}

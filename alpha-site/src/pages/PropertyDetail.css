@@ -1,0 +1,22 @@
+.contact-form {
+  z-index: 619;
+  position: inherit;
+  right: 7%;
+  width: 600px;
+  /* bottom: 20%; */
+  margin-top: -26% !important;
+}
+.modal-dialog-bottom {
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  margin: 0;
+  width: 90%;
+  max-width: 600px;
+}
+
+.modal-content {
+  border-radius: 10px;
+  box-shadow: 0px -2px 10px rgba(0, 0, 0, 0.2);
+}

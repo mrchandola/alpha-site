@@ -1,0 +1,9 @@
+.city-title {
+  z-index: 200;
+  bottom: 70px;
+  float: left;
+  left: 49px;
+  font-size: larger;
+  font-weight: 500;
+  text-decoration:none;
+}

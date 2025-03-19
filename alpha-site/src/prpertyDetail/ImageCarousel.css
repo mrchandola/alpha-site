@@ -1,0 +1,49 @@
+.list-single-carousel-wrap {
+  width: 100%;
+  /* max-width: 100vw; */
+  overflow: hidden;
+}
+
+.slick-slide-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+}
+
+.box-item {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.box-item img {
+  width: 100%;
+  height: 100vh; /* Adjust for full height */
+  object-fit: cover; /* Ensures the image covers the entire space */
+}
+.fw-carousel .slick-slide-item img {
+	width:100%;
+	height:100%   !important;
+}
+/* 
+.sw-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  z-index: 10;
+  font-size: 24px;
+}
+
+.swiper-button-next {
+  right: 10px;
+}
+
+.swiper-button-prev {
+  left: 10px;
+} */
